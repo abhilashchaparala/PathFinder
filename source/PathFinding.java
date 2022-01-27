@@ -301,9 +301,9 @@ public class PathFinding {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				JOptionPane.showMessageDialog(frame, "	                         Pathfinding\n"
-												   + "             Copyright (c) 2017-2018\n"
-												   + "                         Greer Viau\n"
-												   + "          Build Date:  March 28, 2018   ", "Credit", JOptionPane.PLAIN_MESSAGE, new ImageIcon(""));
+												   + "             Copyright (c) 2020-21\n"
+												   + "                         Abhilash\n"
+												   + "          Build Date:  March 28, 2020   ", "Credit", JOptionPane.PLAIN_MESSAGE, new ImageIcon(""));
 			}
 		});
 		
